@@ -21,7 +21,7 @@ The below table must contain the details of the repositories you will create, fi
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
+| 2 | National park Data| Visualizing Data collected from different national parks in USA | https:// https://github.com/nhavim/National-Park-Data.git      |
 | 3 |  -             |  -             | https://       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
