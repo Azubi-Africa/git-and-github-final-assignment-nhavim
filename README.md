@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Caesar Ciper            |  A simple algorithm for encrypting and decrypting secret messages for data privacy.           | https://github.com/nhavim/Caesar-Cipher-for-encrypt-messages.git      |
+| 2 | National park Data| Visualizing Data collected from different national parks in USA | https://github.com/nhavim/National-Park-Data.git      |
+| 3 |  Sales Dashboard           | Analyzing sales data using Power Bi tool            | https://github.com/nhavim/Sales-Dashboard.git     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
